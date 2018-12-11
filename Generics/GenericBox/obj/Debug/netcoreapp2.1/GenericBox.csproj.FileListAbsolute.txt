@@ -1,0 +1,11 @@
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericBox\bin\Debug\netcoreapp2.1\GenericBox.deps.json
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericBox\bin\Debug\netcoreapp2.1\GenericBox.runtimeconfig.json
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericBox\bin\Debug\netcoreapp2.1\GenericBox.runtimeconfig.dev.json
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericBox\bin\Debug\netcoreapp2.1\GenericBox.dll
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericBox\bin\Debug\netcoreapp2.1\GenericBox.pdb
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericBox\obj\Debug\netcoreapp2.1\GenericBox.csprojAssemblyReference.cache
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericBox\obj\Debug\netcoreapp2.1\GenericBox.csproj.CoreCompileInputs.cache
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericBox\obj\Debug\netcoreapp2.1\GenericBox.AssemblyInfoInputs.cache
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericBox\obj\Debug\netcoreapp2.1\GenericBox.AssemblyInfo.cs
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericBox\obj\Debug\netcoreapp2.1\GenericBox.dll
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericBox\obj\Debug\netcoreapp2.1\GenericBox.pdb

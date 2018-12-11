@@ -1,0 +1,10 @@
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.deps.json
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.runtimeconfig.json
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.runtimeconfig.dev.json
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.dll
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.pdb
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.csproj.CoreCompileInputs.cache
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.AssemblyInfoInputs.cache
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.AssemblyInfo.cs
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.dll
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.pdb

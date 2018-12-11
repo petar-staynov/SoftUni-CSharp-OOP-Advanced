@@ -1,0 +1,11 @@
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp2.1\GenericCountMethodStrings.deps.json
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp2.1\GenericCountMethodStrings.runtimeconfig.json
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp2.1\GenericCountMethodStrings.runtimeconfig.dev.json
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp2.1\GenericCountMethodStrings.dll
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp2.1\GenericCountMethodStrings.pdb
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp2.1\GenericCountMethodStrings.csprojAssemblyReference.cache
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp2.1\GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp2.1\GenericCountMethodStrings.AssemblyInfoInputs.cache
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp2.1\GenericCountMethodStrings.AssemblyInfo.cs
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp2.1\GenericCountMethodStrings.dll
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp2.1\GenericCountMethodStrings.pdb

@@ -1,0 +1,11 @@
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\CustomList\bin\Debug\netcoreapp2.1\CustomList.deps.json
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\CustomList\bin\Debug\netcoreapp2.1\CustomList.runtimeconfig.json
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\CustomList\bin\Debug\netcoreapp2.1\CustomList.runtimeconfig.dev.json
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\CustomList\bin\Debug\netcoreapp2.1\CustomList.dll
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\CustomList\bin\Debug\netcoreapp2.1\CustomList.pdb
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\CustomList\obj\Debug\netcoreapp2.1\CustomList.csprojAssemblyReference.cache
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\CustomList\obj\Debug\netcoreapp2.1\CustomList.csproj.CoreCompileInputs.cache
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\CustomList\obj\Debug\netcoreapp2.1\CustomList.AssemblyInfoInputs.cache
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\CustomList\obj\Debug\netcoreapp2.1\CustomList.AssemblyInfo.cs
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\CustomList\obj\Debug\netcoreapp2.1\CustomList.dll
+C:\Repos\SoftUni\SoftUni-CSharp-OOP-Advanced\Generics\CustomList\obj\Debug\netcoreapp2.1\CustomList.pdb
